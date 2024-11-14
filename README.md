@@ -3,8 +3,7 @@
 <h3> Dog Walkers - 
 Canvas Group 4 </h3>
 
-Alexia Hillwig - amh541@pitt.edu
-  dog-licenses.ipynb
+Alexia Hillwig - amh541@pitt.edu - dog-licenses.ipynb
 
 Angelina Riveros - anr463@pitt.edu
   
